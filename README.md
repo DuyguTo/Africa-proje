@@ -9,3 +9,5 @@ Bu web sayfasini inceleyenler Afrika kitasi hakkinda bir cok bilgiye sahip olabi
 Bu projede html ve css kullanildi.
 
 <h2>Screen Gif</h2>
+
+![](site_gif.gif)
